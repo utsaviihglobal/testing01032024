@@ -1,0 +1,10 @@
+step 1) composer install and npm install && npm run watch 
+step 2) Please run the migrations php artisan migrate
+step 3) Please run the php artisan db::seed 
+step 4) Please Import the cities (1).sql , countries (2).sql and states (1).sql
+step 5) Please run the php artisan serve
+step 6) After you can first register on the web site .
+step 7) Then you can login using register email or password
+step 8) After you can see the dashboard and you can see the subuser link.
+step 9) You can click on the create the new user.
+
